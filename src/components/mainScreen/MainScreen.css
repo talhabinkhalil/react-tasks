@@ -1,0 +1,6 @@
+.btns-main{
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+  padding-left: 20px;
+}
